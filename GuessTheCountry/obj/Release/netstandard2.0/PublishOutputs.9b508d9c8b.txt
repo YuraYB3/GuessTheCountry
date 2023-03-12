@@ -1,0 +1,8 @@
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\bin\Release\netstandard2.0\publish\GuessTheCountry.dll
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\bin\Release\netstandard2.0\publish\GuessTheCountry.deps.json
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\bin\Release\netstandard2.0\publish\GuessTheCountry.pdb
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\bin\Release\netstandard2.0\publish\System.Numerics.Vectors.dll
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\bin\Release\netstandard2.0\publish\Xamarin.Essentials.dll
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\bin\Release\netstandard2.0\publish\Xamarin.Forms.Core.dll
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\bin\Release\netstandard2.0\publish\Xamarin.Forms.Platform.dll
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\bin\Release\netstandard2.0\publish\Xamarin.Forms.Xaml.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QeNYTX2zON0Hk3GucRl7G4iU9dX5b4CkZzI06Wdp+iNbkQVtgdFbrb9K5UGxxjonwqMayGx0eR3yvh4w3ZMRXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tarko\\Desktop\\cards\\GuessTheCountry\\GuessTheCountry.iOS\\GuessTheCountry.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tarko\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Tarko\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Tarko\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

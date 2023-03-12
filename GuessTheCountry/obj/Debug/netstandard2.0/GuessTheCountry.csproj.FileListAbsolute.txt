@@ -1,0 +1,17 @@
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\bin\Debug\netstandard2.0\GuessTheCountry.deps.json
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\bin\Debug\netstandard2.0\GuessTheCountry.dll
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\bin\Debug\netstandard2.0\GuessTheCountry.pdb
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\obj\Debug\netstandard2.0\GuessTheCountry.csproj.AssemblyReference.cache
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\obj\Debug\netstandard2.0\GuessTheCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\obj\Debug\netstandard2.0\GuessTheCountry.AssemblyInfoInputs.cache
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\obj\Debug\netstandard2.0\GuessTheCountry.AssemblyInfo.cs
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\obj\Debug\netstandard2.0\GuessTheCountry.csproj.CoreCompileInputs.cache
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\obj\Debug\netstandard2.0\GuessTheCountry.dll
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\obj\Debug\netstandard2.0\refint\GuessTheCountry.dll
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\obj\Debug\netstandard2.0\GuessTheCountry.pdb
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\obj\Debug\netstandard2.0\ref\GuessTheCountry.dll
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\obj\Debug\netstandard2.0\Game.xaml.g.cs
+C:\Users\Tarko\Desktop\cards\GuessTheCountry\GuessTheCountry\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
